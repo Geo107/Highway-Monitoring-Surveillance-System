@@ -17,5 +17,6 @@ Highway Maintenance & Surveillance System. continuously monitors road environmen
 
 - **Accessing Multiple Centre:** This project allows user to add multiple helpline numbers, Here when accident is detected it will inform Hospital and when fire is detected it will inform Fire Station.
 - **Allowing Changes on 'conf':** You could play with 'conf' attribute if you want more precision.
- 
+
+**You should add numbers and authIDs etc... on keys.py inorder sent messages to helpline.**
 
